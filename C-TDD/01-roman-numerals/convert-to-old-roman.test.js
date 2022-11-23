@@ -6,7 +6,7 @@ expect(convertToOldRoman(1).toBe("I"))
 
   })
 
-  it ( "return VI if  passed 6 as an argument", ()=> {
+  it ( "return VI  if  passed 6 as an argument", ()=> {
     expect(convertToOldRoman(6).toBe("VI"))
   })
 it ( "return XI if  passed 11 as an argument", ()=> {
