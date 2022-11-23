@@ -23,8 +23,8 @@ Create a simple calculator function called `add` which takes a string argument c
 ### Step 2: handle an unknown amount of numbers
 
 Allow the `add` function to handle an unknown amount of numbers passed as an argument.
-
-### Step 3: ignore big numbers
+<!-- 
+### Step 3: ignore big numbers -->
 
 Numbers bigger than 1000 should be ignored, so adding 2 + 1001 = 2
 
