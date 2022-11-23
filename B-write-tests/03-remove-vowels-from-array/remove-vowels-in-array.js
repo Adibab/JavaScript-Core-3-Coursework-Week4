@@ -5,7 +5,7 @@ function removeVowelsFromWords(words) {
     return removeVowels(word);
   });
 
-  return result;
+  return result
 }
 
 module.exports = removeVowelsFromWords;
